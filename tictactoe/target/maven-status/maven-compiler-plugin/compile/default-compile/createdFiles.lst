@@ -1,0 +1,6 @@
+com/game/tictactoe/MinimaxRepository.class
+com/game/tictactoe/Board.class
+com/game/tictactoe/Location.class
+com/game/tictactoe/Minimax.class
+com/game/tictactoe/Rotater.class
+com/game/tictactoe/TictactoeApplication.class
